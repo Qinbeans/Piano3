@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=panel
+comment0.target=void\ enable(javax.swing.JPanel)
+comment1.params=ev
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=myk\ myint\ ch
+comment0.target=Chords(char,\ int,\ char)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getKey()
+comment3.params=
+comment3.target=int\ getInt()
+comment4.params=
+comment4.target=char\ getChar()
+numComments=5
