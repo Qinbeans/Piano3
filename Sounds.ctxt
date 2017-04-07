@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=get
+comment0.target=Sounds(java.util.ArrayList)
+comment1.params=e
+comment1.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment2.params=ev
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=e
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=4
